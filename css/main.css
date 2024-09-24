@@ -1,4 +1,6 @@
 @import "./vendor.css"; /* vendor'da yazdığım kodların common'dakileri ezmesini istediğim için sıra önemli */
 @import "./common.css"; 
 @import "./layouts/header.css"; 
-@import "./sections/hero.css"
+@import "./sections/hero.css";
+@import "./sections/camera.css";
+@import "./sections/products.css";
