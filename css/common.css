@@ -2,7 +2,7 @@
     --font-color-1: #ffffff;
     --font-color-2: #868686;
     --background-color-1: #000000;
-    --backgroun-color-2: #151515;
+    --background-color-2: #151515;
     --border-color-1: rgba(255, 255, 255, 0.2);
     --border-color-2: rgba(255, 255, 255, 0.15);
 }
@@ -66,11 +66,11 @@ hr {
     padding: 50px;
     overflow: hidden;
     border-radius: 28px;
-    background-color: var(--backgroun-color-2);
+    background-color: var(--background-color-2);
 }
 
 .section-gray {
-    background-color: var(--backgroun-color-2);
+    background-color: var(--background-color-2);
 }
 
 .section-gray .section-content {
