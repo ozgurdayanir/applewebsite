@@ -20,7 +20,7 @@
     font-size: 30px;
     font-weight: 500;
     letter-spacing: -0.5px;
-    transform: translateX(-50%) /*soldan %50 verdik ama elemanın kendi uzunluğu da olduğu için tam ortalı olmuyor bu kodla beraber başlığın uzunluğu değişse bile elemanın kendi uzunluğunun yarısı kadar sola gelsin diyoruz*/
+    transform: translateX(-50%) /*I gave it 50% from the left, but since the element has its own length, it is not exactly in the middle. With this code, I want the element to be half the length of the element to the left, even if the length of the title changes.*/
 }
 
 #hero .hero-bottom {
